@@ -28,7 +28,7 @@
 
 ---
 
-<h2>Ejercicios: Utiliza las Apis de NIO e IO para resolver cada uno de los ejercicios y compara los resultados.</h2>
+<h2>Utiliza las Apis de NIO e IO para resolver cada uno de los ejercicios y compara los resultados.</h2>
 
 <h3>1. Codifica un método que cree los siguientes archivos:</h3>
 
