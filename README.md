@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Estado-Completado-brightgreen?style=flat" alt="Completado">
 </div>
 
----
+<br>
 
 | Operación / Categoría | API clásica: File (java.io) | API moderna: Path y Files (java.nio.file) |
 | :--- | :--- | :--- |
