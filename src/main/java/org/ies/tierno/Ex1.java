@@ -8,8 +8,8 @@ import java.nio.file.Path;
 public class Ex1 {
 
     public void createIO(String[] paths) throws Exception { // path = ruta
-        for (String path : paths) {
 
+        for (String path : paths) {
             // 1. CREAR RUTA
             File file = new File(path);
 
@@ -30,5 +30,4 @@ public class Ex1 {
 
         }
     }
-
 }
