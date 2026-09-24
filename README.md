@@ -14,6 +14,8 @@
 
 <br>
 
+<h2>APIs manejo de ficheros Archivo</h2>
+
 | Operación / Categoría | API clásica: File (java.io) | API moderna: Path y Files (java.nio.file) |
 | :--- | :--- | :--- |
 | **Creación de la ruta** | `new File(String path)` | `Path.of(...)` ó `Paths.get(...)` |
@@ -26,6 +28,7 @@
 
 ---
 
+<h2>Ejercicios:</h2>
 Utiliza las Apis de NIO e IO para resolver cada uno de los ejercicios y compara los resultados.
 
 1. Codifica un método que cree los siguientes archivos:
